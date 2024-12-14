@@ -1,0 +1,22 @@
+{
+  "name": "episode-02",
+  "version": "1.0.0",
+  "description": "Episode-02 of Namaste React",
+  "scripts": {
+    "start" : "npx parcel App.html",
+    "build" : "npx parcel build App.html",
+    "test": "jest"
+  },
+  "author": "Ankit Dhingra",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0"
+  },
+  "browserslist" : [
+    "last 2 versions" 
+  ]
+}
